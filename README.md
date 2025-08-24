@@ -1,6 +1,4 @@
-My python project started with creating and saving given data in to dataframes and to .CSV files
-# created project DataFrame,Employee DataFrame,Seniority Level DataFrame from given data
-# Saving DataFrames to CSV files and reading data from the saved CSV files
+My python project started with creating and saving given data in to dataframes and to .CSV files, below are the list of taskes i have performed in brief.
 
 Below are the different tasks i have performed based on requirements in project 
 1.Calculate running average for missing values using if else and saving same in CSV file
